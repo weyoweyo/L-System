@@ -1,11 +1,5 @@
 # L-System
 
-/*
-Author: Weiyue Cai
-Date: Feb 20, 2021
-*/
-
-
 1. to execute the jar file,  
 java -jar lindenmayer.jar test/buisson.json 4 test2.eps
 

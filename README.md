@@ -15,7 +15,7 @@ args[1]: the number of iterations
 args[2]: name of output file  
 test/sier.json 7 testsier7.eps
 
-3. all output eps files will be under project folder (WeiyueCai_LSystem) directly. I created a result folder to put all the results.  
+3. all output eps files will be under project folder (L-System) directly. I created manually a result folder to put all the results.  
 
 4. We can also run the following code to show image in Java Swing,  
 but sometimes we can not get the result because of boundary and scale issues.  
@@ -28,4 +28,4 @@ readJSON.readJSONFile(args[0], system, pen, turtleEps);
 system.tell(pen, system.getAxiom(), n);  
 
 5. for LSystem class, my original idea is to use iterator, but my program gives ConcurrentModificationException errors.  
-So I decided use LinkedList to handle all the symbols. 
+So I decided to use LinkedList to handle all the symbols. 

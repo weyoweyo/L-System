@@ -1,5 +1,7 @@
 # L-System
 
+https://ift2015h21.wordpress.com/2021/02/01/projet-1-planter-un-arbre-dans-lordinateur/#more-136  
+
 1. to execute the jar file,  
 java -jar lindenmayer.jar test/buisson.json 4 test2.eps
 

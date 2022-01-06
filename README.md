@@ -1,5 +1,14 @@
 # L-System
 
+![image](https://github.com/weyoweyo/L-System/blob/main/img/buisson.PNG)
+
+![image](https://github.com/weyoweyo/L-System/blob/main/img/herbe.PNG)
+
+![image](https://github.com/weyoweyo/L-System/blob/main/img/hexamazer.PNG)
+
+![image](https://github.com/weyoweyo/L-System/blob/main/img/sier.PNG)
+
+
 https://ift2015h21.wordpress.com/2021/02/01/projet-1-planter-un-arbre-dans-lordinateur/#more-136  
 
 1. to execute the jar file,  

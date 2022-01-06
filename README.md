@@ -6,7 +6,7 @@
 
 ![image](https://github.com/weyoweyo/L-System/blob/main/img/hexamazer.PNG)
 
-![image](https://github.com/weyoweyo/L-System/blob/main/img/sier.PNG)
+![image](https://github.com/weyoweyo/L-System/blob/main/img/sier1.PNG)
 
 
 https://ift2015h21.wordpress.com/2021/02/01/projet-1-planter-un-arbre-dans-lordinateur/#more-136  
